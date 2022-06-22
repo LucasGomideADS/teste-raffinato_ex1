@@ -1,1 +1,1 @@
-# teste-raffinato_ex1
+# Exercício 1 do teste realizado para a vaga de Desenvolvedor Web da empresa Raffinato Softwares
